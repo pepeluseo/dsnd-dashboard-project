@@ -7,8 +7,8 @@ pandas==2.2.3
 pytest
 flake8
 ipython
-#### Add text to install the python-package here
 sqlite-minutils==4.0.3
 fastcore==1.7.19
 starlette==0.38.6
 build
+./python-package/dist/employee_events-0.0.tar.gz
